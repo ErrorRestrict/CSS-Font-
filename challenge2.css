@@ -1,0 +1,28 @@
+.code-camp-head{
+    font-family: Arial;
+    margin: 0;
+
+    padding-bottom: 10px;
+    font-weight:bold ;
+}
+
+.code-span{
+    color: grey;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.para{
+    width:450px;
+    margin-top:0;
+}
+
+.para2{
+margin: 0;
+}
+
+.link{
+    color: skyblue;
+    font-weight: 500;
+    font-family: Arial;
+}

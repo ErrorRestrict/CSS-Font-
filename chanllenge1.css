@@ -1,0 +1,31 @@
+.card{
+    font-family: Arial;
+
+}
+
+h2{
+    margin: 0;
+}
+
+.curr{
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.profit{
+    padding-top: 5px;
+    font-size: 13px;
+    margin: 0;
+    color: rgb(56, 162, 56);
+}
+
+.after{
+    padding-top: 5px;
+    margin:0;
+    font-size: 13px;
+}
+
+.loss{
+    font-size: 13px;
+    color:red;
+}

@@ -1,0 +1,75 @@
+.tahoma{
+    font-family: 'Segoe UI', Tahoma;
+    margin: 0;
+}
+
+.year{
+    margin: 0;
+}
+.Deal{
+    width: 300px;
+    margin: 0;
+    background-color: grey;
+    padding: 10px;
+}
+
+
+.Sales{
+    margin-top: 8px;
+    color:rgb(237, 11, 11);
+    font-style: italic ;
+    font-weight: bold;
+}
+
+.html-course{
+    width: 280px;
+    border: 2px solid;
+    margin-top:10px ;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Verdana, Geneva, 
+    Tahoma, sans-serif;
+    margin: 0;
+}
+
+.details{
+    margin: 0;
+    line-height: 20px;
+    font-family: verdana;
+    font-weight: 400;
+    color: grey;
+    font-size: 14px;
+}
+
+.about-course{
+    font-family: verdana;
+}
+
+.get-started{
+    font-family: verdana;
+    border: none;
+    padding: 8px;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(6, 150, 6);
+}
+
+.shopping{
+    border: 2px solid;
+    width: 300px;
+    margin-top:10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: arial;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+}
